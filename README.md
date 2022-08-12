@@ -1,1 +1,1 @@
-# Cronometro : https://dherikcamargo.github.io/Cronometro/
+# Cronometro: https://dherikcamargo.github.io/Cronometro/
